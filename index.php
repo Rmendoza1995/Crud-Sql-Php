@@ -15,6 +15,8 @@
         <label for="edad">Edad:</label>
         <input type="number" name="edad" required><br><br>
 
+
+        
         <input type="submit" value="Registrar">
     </form>
 </body>
